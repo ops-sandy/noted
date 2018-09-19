@@ -8,4 +8,4 @@
 
 ***
 
-<p align="center"><small>Code by [David Winter](/davidwinter) | Logo by [Colin Meinke](/colinmeinke)</small></p>
+<p align="center"><small>Code by <a href="/davidwinter">David Winter</a> | Logo by <a href="/colinmeinke">Colin Meinke</a></small></p>

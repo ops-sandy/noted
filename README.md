@@ -8,7 +8,7 @@
 
 ***
 
-* [Download the latest release](/davidwinter/noted/releases/latest)
+* [Download the latest release](https://github.com/davidwinter/noted/releases/latest)
 * Type `?` in the search input to view the how-to-use
 
 ***

@@ -8,4 +8,9 @@
 
 ***
 
+* [Download the latest release](/davidwinter/noted/releases/latest)
+* Type `?` in the search input to view the how-to-use
+
+***
+
 <p align="center"><small>Code by <a href="/davidwinter">David Winter</a> | Logo by <a href="/colinmeinke">Colin Meinke</a></small></p>

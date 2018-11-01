@@ -10,7 +10,7 @@
 
 Noted is a note taking application inspired by [Notational Velocity](http://notational.net/). Its aim is to let you create and manage your notes with ease by using a simple and entirely keyboard driven interface.
 
-<p align="center">**[Download for macOS](https://github.com/davidwinter/noted/releases/latest)**</p>
+<p align="center"><strong><a href="https://github.com/davidwinter/noted/releases/latest">Download for macOS</a><strong></p>
 
 <p align="center">
   <img src="./screenshot.png" width="400" />
